@@ -52105,7 +52105,7 @@ R(a,b){return new A.ro(new A.tV(null),A.a7J(null,"SourceSansPro"),!1,null)}}
 A.tV.prototype={
 aE(){return new A.HR(B.m)}}
 A.HR.prototype={
-R(a,b){var s="D\xfcsseldorf",r="2,00\u20ac",q="T\xfcte (250g)",p="Vollgepackt",o=null,n="item",m="K\xf6ln",l="kg",k=A.a([A.b(A.tU(b,s,"Rotkohl Microgreens",r,q,p,"shopimages/rotkohl.png").a,n),A.b(A.tU(b,m,"\xc4pfel",r,l,"Achim Otto","shopimages/apfel.jpeg").a,n),A.b(A.tU(b,s,"Rettich Microgreens","3,00\u20ac",q,p,"shopimages/rettich.png").a,n),A.b(A.tU(b,m,"Frischer Rotkohl",r,l,"Olla Pink","shopimages/olla_pink_verkauf_q.jpeg").a,n),A.b(A.tU(b,m,"Kr\xe4uterseitlinge","14,00\u20ac",l,"Pilzling","shopimages/pilz.png").a,n),A.b(A.tU(b,m,"Leckere Kartoffeln",r,l,"Barbara Stach","shopimages/kartoffeln.jpeg").a,n)],t.G),j=A.aM([null,0],t.st,t.S)
+R(a,b){var s="D\xfcsseldorf",r="2,00\u20ac",q="T\xfcte (250g)",p="Vollgepackt",o=null,n="item",m="K\xf6ln",l="kg",k=A.a([A.b(A.tU(b,s,"Rotkohl Microgreens",r,q,p,"shopimages/rotkohl.jpeg").a,n),A.b(A.tU(b,m,"\xc4pfel",r,l,"Achim Otto","shopimages/apfel.jpeg").a,n),A.b(A.tU(b,s,"Rettich Microgreens","3,00\u20ac",q,p,"shopimages/rettich.jpeg").a,n),A.b(A.tU(b,m,"Frischer Rotkohl",r,l,"Olla Pink","shopimages/olla_pink_verkauf_q.jpeg").a,n),A.b(A.tU(b,m,"Austernseitlinge","14,00\u20ac",l,"Pilzling","shopimages/pilz.jpeg").a,n),A.b(A.tU(b,m,"Leckere Kartoffeln",r,l,"Barbara Stach","shopimages/kartoffeln.jpeg").a,n)],t.G),j=A.aM([null,0],t.st,t.S)
 return A.ahz(new A.tz(new A.Ak(new A.Vx(!0,!0,!0,k,j),o,B.b7,!1,o,!0,B.rK,!1,o,6,B.bh,B.BT,o,B.ae,o),B.wi,o),!0)}}
 A.Uj.prototype={}
 A.aV.prototype={
