@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "eed9219446bedbe1f8c4d72be5003319",
+  "assets/AssetManifest.json": "86276a3ef759a64c2490f03b92566341",
 "assets/FontManifest.json": "082883c06ef8270446c1fca263ba0ce0",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/fonts/SourceSansPro-Regular.ttf": "47dbe5824a2d82b794ef1f52809699a5",
@@ -34,6 +34,9 @@ const RESOURCES = {
 "assets/shopimages/apfel.jpeg": "62f0d34c9909095035afb3239713404f",
 "assets/shopimages/kartoffeln.jpeg": "0d54e5ba8fbe3b9937302bc2e657743a",
 "assets/shopimages/olla_pink_verkauf_q.jpeg": "7f031d4bcc98bea19752bb22b15bd977",
+"assets/shopimages/pilz.png": "2d203d7a77a3750f29c654bb8d02eb9a",
+"assets/shopimages/rettich.png": "ab8ccb7ea6d39b04d728e9f8966812c5",
+"assets/shopimages/rotkohl.png": "d646f8e3e33cf31e000ffd4482e70720",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -43,9 +46,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6129028f9846a40393d55b4748e2ca68",
-"/": "6129028f9846a40393d55b4748e2ca68",
-"main.dart.js": "01f9297c48b1dc1605759547fdf35a28",
+"index.html": "f2666bb89ab1f2840e1641606d2e9a70",
+"/": "f2666bb89ab1f2840e1641606d2e9a70",
+"main.dart.js": "8727e1b7df4a8b9cfbbe5e675ee31074",
 "manifest.json": "2e74cbd0c567e7e63203fbce94f00611",
 "version.json": "a832f85949f36806a5c50388f9d473d3"
 };
