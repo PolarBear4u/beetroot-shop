@@ -34,7 +34,7 @@ const RESOURCES = {
 "assets/shopimages/apfel.jpeg": "62f0d34c9909095035afb3239713404f",
 "assets/shopimages/kartoffeln.jpeg": "0d54e5ba8fbe3b9937302bc2e657743a",
 "assets/shopimages/olla_pink_verkauf_q.jpeg": "7f031d4bcc98bea19752bb22b15bd977",
-"assets/shopimages/pilz.jpeg": "9cf19b63e15d672ad74d1c7f9144c41d",
+"assets/shopimages/pilz.jpeg": "96812f2bcef27b3c42be2c324a68ca8f",
 "assets/shopimages/rettich.jpeg": "c17465adefcdb59e039436ceb3366fe3",
 "assets/shopimages/rotkohl.jpeg": "7fef8630cff6fc04474b8d6a67c674b4",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
@@ -46,9 +46,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "55f85d1b16b126c62d22e27265e264d5",
-"/": "55f85d1b16b126c62d22e27265e264d5",
-"main.dart.js": "62d81a50f30c0b6158bf6dc1d988193b",
+"index.html": "6abb72b73261d785bdefe906ae754e81",
+"/": "6abb72b73261d785bdefe906ae754e81",
+"main.dart.js": "80ff86faf11852d2838de9d3c92ef94f",
 "manifest.json": "2e74cbd0c567e7e63203fbce94f00611",
 "version.json": "a832f85949f36806a5c50388f9d473d3"
 };
